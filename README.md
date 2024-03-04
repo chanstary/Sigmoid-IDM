@@ -16,6 +16,7 @@ start-up:
 
 
 stop-and-go:
+
 ![image](https://github.com/chanstary/Sigmoid-IDM/assets/83267051/d222a3c1-9f7d-457f-a8fe-0e73e77c6651)
 ![image](https://github.com/chanstary/Sigmoid-IDM/assets/83267051/37bfa415-e649-43de-8e8c-968339b3a1ac)
 
